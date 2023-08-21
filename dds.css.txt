@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ola te amo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ff6b6b;
+            color: #fff;
+            padding: 1rem;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .content {
+            padding: 2rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: #333;
+        }
+
+        footer {
+            background-color: #ff6b6b;
+            color: #fff;
+            padding: 1rem;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Para Queria maylin mi niña</h1>
+    </header>
+    <div class="content">
+        <p>¡Hola mi amor!</p>
+        <p>Quería dedicarte esta pequeña página web para recordarte cuánto te amo y cuánto significas para mí. Eres la luz de mi vida y cada día a tu lado es un regalo.</p>
+        <p>Gracias por ser mi compañera, amiga y confidente. Siempre estás en mi mente y en mi corazón, te amo mas de lo que piensas y perdon por no comprenderte aveces, trato de mejorar, pero siempre dare todo por ti.</p>
+        <p>Con todo mi amor,<br>Denis</p>
+    </div>
+    <footer>
+        <p>tiamu</p>
+    </footer>
+</body>
+</html>
